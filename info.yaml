@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "8-bit Ripple Carry Adder"      # Project title
+  title:        "8-bit ripple carry adder"      # Project title
   author:       "emig7"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "8-bit ripple carry adder"      # One line description of what your project does
